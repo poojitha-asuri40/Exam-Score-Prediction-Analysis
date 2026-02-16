@@ -83,4 +83,5 @@ Practiced explaining insights using real-world style reporting
 📌 Conclusion
 
 This project demonstrates how Power BI can be used to transform raw data into meaningful insights. The dashboard allows users to easily explore student performance and understand how multiple factors together affect exam results.
+
 Author : A.Poojitha
